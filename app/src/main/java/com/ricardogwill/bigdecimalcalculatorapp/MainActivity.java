@@ -8,7 +8,7 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 
-    //  Note that the first commit on GitHub was on Tuesday, 10/16/2018 (before 11:00pm), not on 10/17/2018.
+    //  Interestingly, GitHub changed the commit time of this to 10/16/2018 from the wrong date of 10/17/2018.
 
     TextView inputTextView, outputTextView;
     Button submitButton;
